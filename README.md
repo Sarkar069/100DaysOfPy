@@ -1,10 +1,12 @@
-    🐍 100DaysOfPy
+## 🐍 100DaysOfPy
 
-A collection of 100 Python projects, designed to inspire, learn, and master Python one day at a time!
-🌟 Overview
+A collection of 100 Python projects, designed to inspire, learn, and master Python one day at a time!\
 
-This repository contains 100 Python projects, ranging from beginner-friendly to advanced, covering a variety of topics such as algorithms, web development, data science, and more. Whether you're starting out or looking to refine your skills, this is your one-stop destination!
-📁 Project Structure
+#🌟 Overview
+
+This repository contains 100 Python projects, ranging from beginner-friendly to advanced, covering a variety of topics such as algorithms, web development, data science, and more. Whether you're starting out or looking to refine your skills, this is your one-stop destination!\
+
+# 📁 Project Structure
 
 Each project is organized in its own directory with the following structure:
 
