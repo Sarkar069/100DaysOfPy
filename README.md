@@ -16,19 +16,4 @@ Each project is organized in its own directory with the following structure:
 │── requirements.txt #(if needed)
 └── assets/       # Supporting files (images)
 ```
-## 🚀 How to Use
 
-1. Clone the repository:
-```bash
-git clone https://github.com/YourUsername/100DaysOfPy.git
-cd 100DaysOfPy
-```
-
-2. Install dependencies (if any):
-Use ```requirements.txt``` for projects with additional dependencies:
-
-
-
-```bash
-pip install -r requirements.txt
-```
