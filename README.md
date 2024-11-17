@@ -14,6 +14,6 @@ Each project is organized in its own directory with the following structure:
 │── Projects       # Main script
 │── README.md     # Overview of the project
 │── requirements.txt #(if needed)
-└── assets/       # Supporting files (images)
+└── Assets/       # Supporting files (images)
 ```
 
