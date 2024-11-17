@@ -1,2 +1,0 @@
-Hi there! 👋 Thank you for cloning the 100DaysOfPy repository. This project is a collection of 100 Python projects designed to inspire, teach, and challenge your Python skills. 
-Whether you're a beginner or a seasoned developer, there's something here for you! 🚀
